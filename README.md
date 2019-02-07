@@ -1,2 +1,2 @@
-# CST8284
-Object-Oriented Programming
+# Object-Oriented Programming
+This project was entirely made in Java and contains proper documentation.
