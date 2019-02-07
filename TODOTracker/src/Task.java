@@ -1,5 +1,3 @@
-package cst8284.assignment1;
-
 import java.util.Date;
 
 public abstract class Task {

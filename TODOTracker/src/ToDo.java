@@ -1,5 +1,3 @@
-package cst8284.assignment1;
-
 import java.io.Serializable;
 import java.util.Date;
 
